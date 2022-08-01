@@ -7,7 +7,7 @@
          "title": "Sold",
          "bg": "primary"
       },
-      "image": "images/product-1.jpg",
+      "image": "https://couchjanus.github.io/images/product-1.jpg",
       "title": "Kui Ye Chen’s AirPods",
       "price": 250,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -23,7 +23,7 @@
          "title": "",
          "bg": ""
       },
-      "image": "images/product-2.jpg",
+      "image": "https://couchjanus.github.io/images/product-2.jpg",
       "title": "Air Jordan 12 gym red",
       "price": 303,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -39,7 +39,7 @@
          "title": "New",
          "bg": "primary"
       },
-      "image": "images/product-3.jpg",
+      "image": "https://couchjanus.github.io/images/product-3.jpg",
       "title": "Cyan cotton t-shirt",
       "price": 25,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -55,7 +55,7 @@
          "title": "",
          "bg": ""
       },
-      "image": "images/product-4.jpg",
+      "image": "https://couchjanus.github.io/images/product-4.jpg",
       "title": "Timex Unisex Originals",
       "price": 151,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -71,7 +71,7 @@
          "title": "Sale",
          "bg": "primary"
       },
-      "image": "images/product-5.jpg",
+      "image": "https://couchjanus.github.io/images/product-5.jpg",
       "title": "Red digital smartwatch",
       "price": 150,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -87,7 +87,7 @@
          "title": "",
          "bg": ""
       },
-      "image": "images/product-6.jpg",
+      "image": "https://couchjanus.github.io/images/product-6.jpg",
       "title": "Nike air max 95",
       "price": 311,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -103,7 +103,7 @@
          "title": "Sale",
          "bg": "primary"
       },
-      "image": "images/product-7.jpg",
+      "image": "https://couchjanus.github.io/images/product-7.jpg",
       "title": "Joemalone Women prefume",
       "price": 35,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -119,7 +119,7 @@
          "title": "",
          "bg": ""
       },
-      "image": "images/product-8.jpg",
+      "image": "https://couchjanus.github.io/images/product-8.jpg",
       "title": "Apple Watch",
       "price": 425,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -135,7 +135,7 @@
          "title": "Sold",
          "bg": "primary"
       },
-      "image": "images/product-9.jpg",
+      "image": "https://couchjanus.github.io/images/product-9.jpg",
       "title": "Men silver Byron Watch",
       "price": 551,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -151,7 +151,7 @@
          "title": "New",
          "bg": "primary"
       },
-      "image": "images/product-10.jpg",
+      "image": "https://couchjanus.github.io/images/product-10.jpg",
       "title": "Ploaroid one step camera",
       "price": 166,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -167,7 +167,7 @@
          "title": "Sale",
          "bg": "primary"
       },
-      "image": "images/product-11.jpg",
+      "image": "https://couchjanus.github.io/images/product-11.jpg",
       "title": "Gray Nike running shoes",
       "price": 123,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
@@ -183,7 +183,7 @@
          "title": "New",
          "bg": "primary"
       },
-      "image": "images/product-12.jpg",
+      "image": "https://couchjanus.github.io/images/product-12.jpg",
       "title": "Black DSLR lense",
       "price": 100,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
